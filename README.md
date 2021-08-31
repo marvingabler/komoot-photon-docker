@@ -2,7 +2,7 @@
 
 ### Building
 ```bash
-docker build . -t photon
+docker build -t photon .
 ```
 
 ### Usage
